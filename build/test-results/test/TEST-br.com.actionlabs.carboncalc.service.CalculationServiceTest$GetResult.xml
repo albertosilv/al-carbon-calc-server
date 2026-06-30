@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="getResult" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-06-30T15:48:11" hostname="ALBERTO" time="2.262">
+  <properties/>
+  <testcase name="deve retornar zero em todos os campos quando não houver dados suficientes" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$GetResult" time="2.153"/>
+  <testcase name="deve usar zero como percentual de reciclagem quando ele for nulo" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$GetResult" time="0.052"/>
+  <testcase name="deve calcular corretamente energia, transporte e resíduos sólidos e somar o total" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$GetResult" time="0.014"/>
+  <testcase name="deve lançar CalculationNotFoundException quando o cálculo não existir" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$GetResult" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

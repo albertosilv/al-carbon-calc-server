@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="startCalculation" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-06-30T15:48:13" hostname="ALBERTO" time="0.069">
+  <properties/>
+  <testcase name="deve lançar IllegalArgumentException quando a UF estiver em branco" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.007"/>
+  <testcase name="deve criar e salvar um novo cálculo com UF em maiúsculas" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.024"/>
+  <testcase name="deve lançar IllegalArgumentException quando o email estiver nulo" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.005"/>
+  <testcase name="deve lançar IllegalArgumentException quando o nome estiver em branco" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.005"/>
+  <testcase name="deve lançar IllegalArgumentException quando o nome estiver nulo" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.005"/>
+  <testcase name="deve lançar IllegalArgumentException quando a UF estiver nula" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.004"/>
+  <testcase name="deve lançar IllegalArgumentException quando o telefone estiver nulo" classname="br.com.actionlabs.carboncalc.service.CalculationServiceTest$StartCalculation" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
